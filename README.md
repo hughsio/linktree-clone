@@ -35,7 +35,7 @@ The website includes:
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone hughsio/linktree-clone
 ```
 
 2. Open the project in Cursor IDE
